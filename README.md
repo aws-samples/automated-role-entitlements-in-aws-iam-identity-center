@@ -83,7 +83,7 @@ All these above mentioned keywords are to provide you with a guidance for standa
 * `backend.tf` - this file is used to define the terraform provider and state file storage location
 * `providers.tf` - this file defines the provider details that includes required Terraform version for AWS and the AWS account credential details. 
 
-This folder contains one sub-folder [src/lambda/entitlement_automation](/src/) which stores the Lambda function code - python scripts and its functionalities
+This folder contains one sub-folder [src/lambda/entitlement_automation](/src/lambda/entitlement_automation) which stores the Lambda function code - python scripts and its functionalities
 ## Deployment Instructions
 
 > NOTE: This solution should be deployed only in the management account of your AWS organization.
