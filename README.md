@@ -121,5 +121,5 @@ As further next steps, you can stat scaling role entitlement process for your en
 The CloudFormation version of the same solution is coming soon. Meanwhile feel free to contribute to this repository with your enhancements to the current solution.
 
 ## Conclusion
-In this solution, we showed how to automate AWS IAM Identity Center permission assignment to user groups using IaC - Terraform. You can integrate this solution in your CI/CD pipeline and have the automation triggered when the pipeline creates a new AWS Account or a new enterprise user group or a new Permission Set in your AWS environment.
+This solution shows how to automate AWS IAM Identity Center permission assignment to user groups using IaC - Terraform. You can integrate this solution in your CI/CD pipeline and have the automation triggered when the pipeline creates a new AWS Account or a new enterprise user group or a new Permission Set in your AWS environment.
 
