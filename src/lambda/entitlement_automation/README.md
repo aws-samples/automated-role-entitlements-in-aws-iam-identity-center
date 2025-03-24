@@ -20,7 +20,7 @@ This python scripts contains the main method - *`def lambda_handler()`* of the l
   * These information are required for doing the permission assignment
   
 ## `account_logic.py`
-This pyhton script contains only one method that is used for retrieving information about specific or all AWS accounts under the AWS organization
+This python script contains only one method that is used for retrieving information about specific or all AWS accounts under the AWS organization
 
   `retrieve_account_information()`
   * This method is called by the main method for fetching AWS account information in case of a new User group creation event or a new Permission Set creation event
